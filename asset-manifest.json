@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/We_Rdevs/static/css/main.d34691a8.chunk.css",
+    "main.js": "/We_Rdevs/static/js/main.f4f0fde2.chunk.js",
+    "main.js.map": "/We_Rdevs/static/js/main.f4f0fde2.chunk.js.map",
+    "runtime-main.js": "/We_Rdevs/static/js/runtime-main.73591d39.js",
+    "runtime-main.js.map": "/We_Rdevs/static/js/runtime-main.73591d39.js.map",
+    "static/css/2.8dbe6964.chunk.css": "/We_Rdevs/static/css/2.8dbe6964.chunk.css",
+    "static/js/2.f7f3d15c.chunk.js": "/We_Rdevs/static/js/2.f7f3d15c.chunk.js",
+    "static/js/2.f7f3d15c.chunk.js.map": "/We_Rdevs/static/js/2.f7f3d15c.chunk.js.map",
+    "index.html": "/We_Rdevs/index.html",
+    "precache-manifest.c1b6d8c912cb1d49a338be80e0d8772a.js": "/We_Rdevs/precache-manifest.c1b6d8c912cb1d49a338be80e0d8772a.js",
+    "service-worker.js": "/We_Rdevs/service-worker.js",
+    "static/css/2.8dbe6964.chunk.css.map": "/We_Rdevs/static/css/2.8dbe6964.chunk.css.map",
+    "static/css/main.d34691a8.chunk.css.map": "/We_Rdevs/static/css/main.d34691a8.chunk.css.map",
+    "static/js/2.f7f3d15c.chunk.js.LICENSE.txt": "/We_Rdevs/static/js/2.f7f3d15c.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/We_Rdevs/static/media/hero@3x.197a14cb.png",
+    "static/media/logo.svg": "/We_Rdevs/static/media/logo.f899aafb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73591d39.js",
+    "static/css/2.8dbe6964.chunk.css",
+    "static/js/2.f7f3d15c.chunk.js",
+    "static/css/main.d34691a8.chunk.css",
+    "static/js/main.f4f0fde2.chunk.js"
+  ]
+}
