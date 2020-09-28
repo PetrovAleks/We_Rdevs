@@ -1,0 +1,72 @@
+.bg-form {
+	position: fixed;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	width: 100vw;
+	height: 100vh;
+	background-color: #000000c4;
+	z-index: 2;
+}
+.container-form {
+	padding-top: 20px;
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 510px;
+	height: 140px;
+	background-color: #fff;
+	z-index: 3;
+
+	@media screen and (min-width: 320px) and(max-width:  739px) {
+		width: 300px;
+		height: 300px;
+	}
+}
+.btn-form {
+	width: 28;
+	height: 28;
+	border: none;
+	background-color: #fdd000;
+	position: absolute;
+	top: 0;
+	right: 0;
+	font-size: 14px;
+	color: #131819ad;
+	cursor: pointer;
+}
+.form-label {
+	position: relative;
+	margin-right: 20px;
+
+	&:last-child {
+		margin-right: 0;
+	}
+	@media screen and (min-width: 320px) and(max-width:  739px) {
+		margin-bottom: 60px;
+	}
+}
+.wrapper-form {
+	@media screen and (min-width: 320px) and(max-width:  739px) {
+		display: flex;
+		flex-direction: column;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+.form-name {
+	position: absolute;
+	top: -35px;
+	left: 0;
+	color: #a2a2a2;
+	font-weight: 700;
+}
+
+.form-input {
+	border: 2px solid #fdd000;
+	padding: 10px 10px 10px 17px;
+	color: #000000;
+}

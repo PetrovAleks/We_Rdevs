@@ -1,0 +1,40 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+.list-style {
+	list-style: none;
+}
+body {
+	font-family: "Rubik", sans-serif;
+	margin: 0;
+	position: relative;
+}
+
+.container {
+	max-width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+
+	@media screen and (min-width: 320px) and(max-width:  739px) {
+		width: 320px;
+	}
+	@media screen and (min-width: 740px) and(max-width:  1200px) {
+		width: 740px;
+	}
+}
+
+h1,
+h2,
+h3 {
+	margin: 0;
+}
+p {
+	margin: 0;
+}
